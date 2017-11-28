@@ -1,5 +1,7 @@
 #!/bin/sh
-## Example of a broken script.
 
-echo "Echo Starting node server"
+# Jack Young
+# 11-28-2018
+
+echo "==  Starting node server.   =="
 npm start
