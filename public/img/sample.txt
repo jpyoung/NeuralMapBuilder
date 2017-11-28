@@ -1,0 +1,4 @@
+Sample Images will be placed here for development purposes. However,
+due to the size of the training set; the images will have to be stored
+over a cluster.
+
